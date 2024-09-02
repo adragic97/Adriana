@@ -1,2 +1,3 @@
-# Adriana
-My personal repository
+# About me
+## My personal repository.
+**My name is Adriana. Hi! 😄**
